@@ -8,7 +8,7 @@
 此库提供的案例包括代码以及数据集均只能用于学习交流，案例数据集来自于开源社区，所有案例及数据集请勿用于除学习之外的其他商业用途，如果违反所产生的法律纠纷与提供方无关。
 
 Visit count: [![HitCount](http://hits.dwyl.io/chenliang613/huaweicloud/ModelArts-Lab.svg)](http://hits.dwyl.io/chenliang613/huaweicloud/ModelArts-Lab)
-
+http://image.huawei.com/tiny-lts/v1/images/a85232677b6e747d0808_1121x78.png@900-0-90-f.png
 ## Online Documents
 * [ModelArts准备工作](docs/ModelArts准备工作)
 * [MoXing-API](docs/moxing_api_doc)
